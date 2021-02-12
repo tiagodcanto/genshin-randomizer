@@ -1,0 +1,8 @@
+{
+  "name": "GenshinRandomizer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "7e3c1746"
+}
